@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meshreedhares
+- 👋 Hi, I’m @meShreedhar
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning Web Languages
 - 💞️ I’m looking to collaborate on a project
